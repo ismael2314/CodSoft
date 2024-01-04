@@ -1,5 +1,5 @@
 # CodSoft
-- all project I have done while I was with codsoft
+- this reository includes all tasks that I have done while I was with working with codsoft.
 # Flower_shop
   - 1st project
   - A landing page for flowershop
