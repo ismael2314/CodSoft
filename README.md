@@ -4,6 +4,8 @@
   - 1st project
   - A landing page for flowershop
   - I have Used
-    - Bootstrap to takecare of the frames that I have used
+    - Bootstrap to takecare of the frames
+    - HTML
+    - JS
 # potiflio 
 --  2nd project
